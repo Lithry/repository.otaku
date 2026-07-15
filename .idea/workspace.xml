@@ -4,69 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff315945-6ecd-4792-88f1-823249584e91" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/repo/plugin.video.otaku/migration.txt" beforeDir="false" afterPath="$PROJECT_DIR$/repo/plugin.video.otaku/migration.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/plugin.video.otaku/resources/lib/ui/megacloud_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/repo/plugin.video.otaku/resources/lib/ui/megacloud_extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/plugin.video.otaku/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/repo/plugin.video.otaku/service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/repository.otaku/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/repository.otaku/addon.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/addons.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/addons.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/context.otaku/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/context.otaku/addon.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/context.otaku/context.otaku-1.0.29.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/context.otaku/context.otaku-1.0.30.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/context.otaku/context.otaku-1.0.31.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/context.otaku/context.otaku-1.0.32.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/context.otaku/context.otaku-1.0.33.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/context.otaku/context.otaku-1.0.34.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/context.otaku/context.otaku-1.0.35.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/context.otaku/context.otaku-1.0.35.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/addon.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.45.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.46.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.47.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.48.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.49.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.50.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.51.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.52.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.53.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.54.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.56.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.57.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.58.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.59.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.60.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.61.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.62.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.63.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.64.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.65.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.66.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.67.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.68.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.69.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.70.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.71.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.72.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.73.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.74.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.75.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.76.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.77.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.78.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.79.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.80.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.81.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.82.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.83.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.84.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.86.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.87.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.88.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.89.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.90.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.99.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/plugin.video.otaku/plugin.video.otaku-5.2.99.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/repository.otaku/addon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/repository.otaku/addon.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/zips/repository.otaku/repository.otaku-1.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/repo/zips/repository.otaku/repository.otaku-1.0.zip" afterDir="false" />
-    </list>
+    <list default="true" id="ff315945-6ecd-4792-88f1-823249584e91" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
