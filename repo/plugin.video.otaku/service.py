@@ -53,7 +53,7 @@ def update_calendars():
 
 def update_mappings_db():
     control.log("### Updating Mappings")
-    url = 'https://github.com/Goldenfreddy0703/Otaku-Mappings/raw/refs/heads/main/anime_mappings.db'
+    url = 'https://github.com/lithry/Otaku-Mappings/raw/refs/heads/main/anime_mappings.db'
     try:
         response = urllib.request.urlopen(url)
         with open(os.path.join(control.dataPath, 'mappings.db'), 'wb') as file:

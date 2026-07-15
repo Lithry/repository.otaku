@@ -1,6 +1,6 @@
 """
 MegaCloud/VidCloud video source extractor
-Ported from: https://github.com/Goldenfreddy0703/mega-embed-2
+Ported from: https://github.com/lithry/mega-embed-2
 """
 import re
 import json
