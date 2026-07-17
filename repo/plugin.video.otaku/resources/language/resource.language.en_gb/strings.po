@@ -1966,5 +1966,5 @@ msgid "AnimePahe Alt"
 msgstr ""
 
 msgctxt "#30487"
-msgid "AnimeAV1 (🇪🇸)"
+msgid "AnimeAV1 (ES)"
 msgstr ""

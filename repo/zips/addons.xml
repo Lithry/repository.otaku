@@ -72,7 +72,7 @@
       <poster>poster.png</poster>
     </assets>
   </extension>
-</addon><addon id="plugin.video.otaku" name="Otaku" provider-name="TeamOtaku" version="5.3.01">
+</addon><addon id="plugin.video.otaku" name="Otaku" provider-name="TeamOtaku" version="5.3.02">
   <requires>
     <import addon="xbmc.python" version="3.0.1" />
     <import addon="script.module.beautifulsoup4" />
@@ -105,7 +105,7 @@
       <screenshot>resources/screenshots/screenshot-04.jpg</screenshot>
     </assets>
   </extension>
-</addon><addon id="repository.otaku" name="Otaku's Repository" version="1.0" provider-name="lithry">
+</addon><addon id="repository.otaku" name="Otaku's Repository" version="1.0.1" provider-name="lithry">
     <extension point="xbmc.addon.repository" name="Otaku's Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/lithry/repository.otaku/master/repo/zips/addons.xml</info>
