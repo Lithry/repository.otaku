@@ -207,15 +207,14 @@ class Sources(GetSources):
 
     def _embed_sources_worker(self, pid, mod, cache_key, skip_prefix, needs_media_type, mal_id, episode, media_type, rescrape):
         get_sources = mod.Sources().get_sources
-        # Debug safeguard: force live execution for AnimeAV1 to avoid stale cached empty results.
-        force_live = (pid == 'animeav1')
+
         if needs_media_type:
-            if rescrape or force_live:
+            if rescrape:
                 src = get_sources(mal_id, episode, media_type)
             else:
                 src = database.get(get_sources, 8, mal_id, episode, media_type, key=cache_key)
         else:
-            if rescrape or force_live:
+            if rescrape:
                 src = get_sources(mal_id, episode)
             else:
                 src = database.get(get_sources, 8, mal_id, episode, key=cache_key)
